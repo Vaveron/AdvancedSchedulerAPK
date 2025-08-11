@@ -1,2 +1,2 @@
-0.0.2
-https://github.com/Vaveron/AdvancedSchedulerAPK/raw/refs/heads/main/app-release-0.0.2.apk
+0.0.1
+https://github.com/Vaveron/AdvancedSchedulerAPK/raw/refs/heads/main/app-release.apk
